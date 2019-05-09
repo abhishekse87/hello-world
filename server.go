@@ -11,6 +11,7 @@ import (
 	"strconv"
 	"strings"
 	"sync"
+	"sync"
 )
 
 // Run is a blocking method. It runs the kite server and then accepts requests
