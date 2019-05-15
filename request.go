@@ -7,7 +7,6 @@ import (
 	"runtime/debug"
 	"time"
   	"github.com/dgrijalva/jwt-go"
-	"github.com/dgrijalva/jwt-go"
 	"github.com/koding/cache"
 	"github.com/koding/kite/dnode"
 	"github.com/koding/kite/kitekey"
